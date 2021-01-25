@@ -1,6 +1,0 @@
-<h1>&lt;developer&gt; Ravindu Weerakoon &lt;/developer&gt;</h1>
-            <h1>&lt;skills&gt; Python &lt;/skills&gt;</h1>
-            <h1>&lt;skills&gt; HTML & CSS &lt;/skills&gt;</h1>
-            <h1>&lt;skills&gt; Javascript &lt;/skills&gt;</h1>  
-            <h1>&lt;skills&gt; PHP &lt;/skills&gt;</h1>
-            <h1>&lt;skills&gt; Java &lt;/skills&gt;</h1>
