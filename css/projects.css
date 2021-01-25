@@ -23,7 +23,7 @@
     width: 100%;
     display: grid;
     place-items: center;
-    border: white 2px solid
+    border: white 1px solid
 }
 .inproj
 {
@@ -74,5 +74,5 @@
     width: 100%;
     display: grid;
     place-items: center;
-    border: #161a1d 2px solid
+    border: #161a1d 1px solid
 }
