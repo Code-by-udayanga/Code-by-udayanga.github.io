@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Raleway&display=swap');
+.main
+{
+    background-color: #0F161C;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+
+.btn {
+    border: none;
+    background-color: yellowgreen;
+    padding: 2vh 4vh;
+    font-size: 2vh;
+    cursor: pointer;
+    display: inline-block;
+    color: white;
+  }
+.proj
+{
+    height: 100%;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    border: white 2px solid
+}
+.inproj
+{
+    display: grid;
+    place-items: center;
+}
+
+.main>.proj:nth-child(-n+2):hover,.main>.proj:nth-child(4):hover,.main>.proj:nth-child(5):hover
+{
+    width: 102%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    border: none;
+}
+.head
+{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 4vh;
+}
+.btn_light
+{
+    border: none;
+    background-color: #0466C8;;
+    padding: 2vh 4vh;
+    font-size: 2vh;
+    cursor: pointer;
+    display: inline-block;
+    color: yellowgreen;
+}
+.head_light
+{
+    color: #161a1d;
+    font-family: 'Raleway', sans-serif;
+    font-size: 4vh;
+}
+
+.mainlight
+{
+    background-color: white;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.proj_lgt
+{
+    height: 100%;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    border: #161a1d 2px solid
+}

@@ -1,6 +1,6 @@
 $('.lights').click(function()
 {
     $('.sidebar').toggleClass('white');
-    $('.main').toggleClass('whiteName');
+    $('.name').toggleClass('whiteName');
     $('.skills').toggleClass('whiteSkills');
 })

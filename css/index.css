@@ -22,16 +22,16 @@ body
     grid-template-columns: 1fr 1fr;   
     color: white;
 }
-.main>div:nth-child(1)
+.name
 {
     display: grid;
     place-items: center;
     /* font-family: 'Open Sans Condensed', sans-serif; */
     font-family: 'Raleway', sans-serif;
-    background-image: url(https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image: url('../images/dark.jpg');
     background-size: cover;
-    color: #161a1d;
-    opacity: 80%;
+    color: white;
+    opacity: 100%;
 
 }
 .main>div:nth-child(1)>.about
@@ -82,12 +82,12 @@ body
 }
 .whiteName
 {
-    background-image: url(https://images.pexels.com/photos/3709434/pexels-photo-3709434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image: url('../images/white.jpg');
     background-size: cover;
     color: black;
 }
 .whiteSkills
 {
     background-color: #0466C8;
-    color: #023E7D;
+    
 }
